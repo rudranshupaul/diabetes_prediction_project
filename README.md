@@ -165,4 +165,4 @@ Diabetes, Pima Indians, Medical, Machine Learning, Classification, Public Domain
 ---
 
 **Maintained by:** Rudranshu Paul  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/) or email for collaboration.
+Feel free to connect via [LinkedIn](www.linkedin.com/in/rudranshu-paul-376024293) or email(rudranshupaul.24@kgpian.iitkgp.ac.in) for collaboration.

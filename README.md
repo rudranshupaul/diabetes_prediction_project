@@ -3,6 +3,9 @@
 A well-documented dataset and codebase for building and evaluating machine learning models for diabetes prediction, using clinical diagnostic data from female patients of Pima Indian heritage.
 
 ---
+## 🎯 Project Goal
+
+The primary objective of this project is to build a machine learning model capable of predicting the onset of diabetes in female patients of Pima Indian heritage. This repository serves as a complete, end-to-end demonstration of a data science workflow, tackling a real-world healthcare challenge. The focus is on meticulous data cleaning, exploratory data analysis, feature engineering, and the implementation and evaluation of a predictive model to identify high-risk individuals.
 
 ## Project Overview
 

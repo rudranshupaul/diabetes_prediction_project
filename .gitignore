@@ -65,7 +65,7 @@ venv/
 # macOS
 .DS_Store
 
-# Data/project outputs (optional, add as needed)
+# Data/project outputs
 *.log
 *.db
 *.sqlite3

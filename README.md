@@ -43,6 +43,8 @@ To run the code and reproduce the results:
     python src/diabetes_prediction.py
     ```
 
+> Linux compatibility: these version bounds install as prebuilt wheels (no compilation) on 64-bit Linux (x86_64 or aarch64) running CPython 3.10 to 3.13 with glibc 2.28 or newer, and still resolve to the older in-range releases on Python 3.9 or older glibc.
+
 The script prints the benchmark table and the classification report for the best model, and writes all figures plus `benchmark_results.csv` to `outputs/`.
 
 ---
